@@ -18,10 +18,11 @@ body {
   flex-direction: column;
 }
 
-.books th {
-  text-align: center;
+table {
+  width: 60%;
+  padding-bottom: 30px;
 }
 
 .books td {
-  vertical-align: top;
+  padding-bottom: 3px;
 }
